@@ -1,4 +1,4 @@
-package com.example.soul;
+package com.example.chatfirebase;
 
 import android.media.MediaPlayer;
 import android.os.Bundle;
