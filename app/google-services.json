@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "218846464526",
+    "firebase_url": "https://nirvanachat-306e3.firebaseio.com",
+    "project_id": "nirvanachat-306e3",
+    "storage_bucket": "nirvanachat-306e3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:218846464526:android:7498dba1a5d9ef30678a5f",
+        "android_client_info": {
+          "package_name": "com.example.chatfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "218846464526-ro31ok2gj10nvuqcdajrnrfqv252o70s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.chatfirebase",
+            "certificate_hash": "20d255079365aa2ec8f784675c45a908c5212bde"
+          }
+        },
+        {
+          "client_id": "218846464526-ttq69t0hlq2vnat4u1k32sj3702c63ui.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2TNDbrsO5vz3ZT16EmFb1tJLkDdnwCd8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "218846464526-ttq69t0hlq2vnat4u1k32sj3702c63ui.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
